@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InsertionSort", "..\Inserti
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BubbleSort", "..\BubbleSort\BubbleSort.vcxproj", "{26CCC870-4C88-4159-AA35-3E457D433976}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeapSort", "..\HeapSort\HeapSort.vcxproj", "{EF682292-EFD8-4C75-9FE4-5D7CF89DE059}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{26CCC870-4C88-4159-AA35-3E457D433976}.Release|x64.Build.0 = Release|x64
 		{26CCC870-4C88-4159-AA35-3E457D433976}.Release|x86.ActiveCfg = Release|Win32
 		{26CCC870-4C88-4159-AA35-3E457D433976}.Release|x86.Build.0 = Release|Win32
+		{EF682292-EFD8-4C75-9FE4-5D7CF89DE059}.Debug|x64.ActiveCfg = Debug|x64
+		{EF682292-EFD8-4C75-9FE4-5D7CF89DE059}.Debug|x64.Build.0 = Debug|x64
+		{EF682292-EFD8-4C75-9FE4-5D7CF89DE059}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF682292-EFD8-4C75-9FE4-5D7CF89DE059}.Debug|x86.Build.0 = Debug|Win32
+		{EF682292-EFD8-4C75-9FE4-5D7CF89DE059}.Release|x64.ActiveCfg = Release|x64
+		{EF682292-EFD8-4C75-9FE4-5D7CF89DE059}.Release|x64.Build.0 = Release|x64
+		{EF682292-EFD8-4C75-9FE4-5D7CF89DE059}.Release|x86.ActiveCfg = Release|Win32
+		{EF682292-EFD8-4C75-9FE4-5D7CF89DE059}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
